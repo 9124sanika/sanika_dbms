@@ -177,8 +177,4 @@ Drop Table:
 DROP TABLE employee;
 Select 
 
-SELECT * FROM bank;
-SELECT * FROM bank WHERE Balance > 150000;
-SELECT * FROM bank WHERE Balance BETWEEN 100000 AND 200000;
-Update 
-UPDATE bank SET Cus_Branch = 'Poonamallee' WHERE SNo = 2;
+
